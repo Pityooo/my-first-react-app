@@ -35,3 +35,10 @@ Build futtatása után, a build mappát beküldjük a repo-ba, és azt adjuk meg
 CSAK AZ SRC MAPPÁT HASZNÁLJUK!
 
 Ha HTML elemet rakunk komponensként (importálva) akkor < />-be kell tenni (<importált neve/>)
+
+json beolvasása:
+-- JSON loader nevű package (Backendre is fel lehet telepíteni) -> importál, és JS objekté alakítja
+-- távoli fájlokon nem lehet használni (csak lokális fájlokon)
+-- dinamikus listánál adjunk "key" értéket ami egyedi
+
+tailwind, materialui, bootstrap
